@@ -8,3 +8,5 @@
  Scenario 3 : Buy something on web.
  
 >>>>>>> GitPjt
+
+Scenario 4 : Buy product
