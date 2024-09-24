@@ -1,3 +1,5 @@
  Scenario 1 : Book a product through web.
  
  Scenario 2 : Buy a product through web.
+ 
+ Scenario 3 : Buy something on web.
