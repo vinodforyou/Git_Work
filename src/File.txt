@@ -2,4 +2,9 @@
  
  Scenario 2 : Buy a product through web.
  
+<<<<<<< HEAD
  Scenario 3 : Buy something on web.
+=======
+ Scenario 3 : Buy something on web.
+ 
+>>>>>>> GitPjt
