@@ -10,3 +10,6 @@
 >>>>>>> GitPjt
 
 Scenario 4 : Buy product
+
+
+scenario 5: Open flipkart and buy some thing
